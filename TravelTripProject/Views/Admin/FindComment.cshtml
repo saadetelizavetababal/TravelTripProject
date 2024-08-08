@@ -1,0 +1,29 @@
+﻿@*@model TravelTripProject.Models.Classes.Comment*@
+@model TravelTripProject.Models.Comment
+@{
+    ViewBag.Title = "FindComment";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<br />
+<h2>Update Comment Page</h2>
+<br />
+@using (Html.BeginForm("UpdateComment", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.Id)
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.Username)
+    @Html.TextBoxFor(x => x.Username, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Mail)
+    @Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.CommentDetails)
+    @Html.TextAreaFor(x => x.CommentDetails,15,1, new { @class = "form-control" })
+    <br />
+    
+    <button class="btn btn-success">Update Comment</button>
+}
+
