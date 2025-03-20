@@ -88,7 +88,7 @@ Here are some screenshots of the project:
 
 ![Ana Sayfa Görüntüsü](TravelTripProject9.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/1l82ojd.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject10.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/5749ey9.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject11.jpg)
   
