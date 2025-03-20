@@ -70,23 +70,23 @@ Here are some screenshots of the project:
 
 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/a6vhoqo.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject1.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/pg3v602.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject2.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hdylb2p.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject3.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/6egopvg.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject4.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/mu0khvb.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject5.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/3x6ue4a.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject6.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/mxmfv1k.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject7.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/mecgn51.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject8.jpg)
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/s17ussf.jpg)
+![Ana Sayfa Görüntüsü](TravelTripProject9.jpg)
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/1l82ojd.jpg)
 
